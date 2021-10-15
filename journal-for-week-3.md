@@ -10,7 +10,7 @@ tags: tag1, tag2, etc
 
 Wow, what a week. Photogrammetry proved to be a little more challenging than I anticipated, but in the end it was still interesting to watch it all come together into something more or less 3D
 
-![3D_Fail](images/Pasted%20image%2020211007204205.png)
+![3D_Fail](images-week-3/Pasted%20image%2020211007204205.png)
 
 *Yeah, not quite what I expected*
 
