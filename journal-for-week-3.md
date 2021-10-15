@@ -10,7 +10,8 @@ tags: tag1, tag2, etc
 
 Wow, what a week. Photogrammetry proved to be a little more challenging than I anticipated, but in the end it was still interesting to watch it all come together into something more or less 3D
 
-![[Pasted image 20211007204205.png]]
+![3D_Fail](images/Pasted%20image%2020211007204205.png)
+
 *Yeah, not quite what I expected*
 
 So with photogrammetry and web mapping, I had my fair share of successes and failures. I began with photogrammetry, and I quickly realized that some of the pictures I had taken were not easily recognized by Regard3D. This made it so only one side of the graves were visible. Unfortunately this was largely due to the location of the graves, since they were too close together to record individually, and a hedge on one side of the site prevented me from capturing pictures at a far enough distance so that the program might recognize them. It made me wonder why the graves were positioned so close together. Perhaps it was due to a strong familial bond, or maybe to allow for the most graves possible to fit on the family plot. Regardless, I feel like it would have been easier if several factors would have been improved, such as if the graves were out in an open area, or if the lighting would have been better (the area was partially covered by trees). Of course, I highly doubt the family had photogrammetry in mind when planning out the graves of their loved ones.
