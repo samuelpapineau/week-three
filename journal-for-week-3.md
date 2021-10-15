@@ -19,7 +19,7 @@ So with photogrammetry and web mapping, I had my fair share of successes and fai
 <br>
 The next part of this project was web mapping. Luckily, I already have a fair bit of experience with html, but I have never done web mapping like this before. The recommended text editor was Sublime Text, but I opted to go with vscode since I already know how to use it relatively well. I successfully followed the examples and created a web map featuring the digital site map I created. I also added the map provided in the booklet I acquired (see Journal for Week 2), and was able to compare the two. The only problem I had during this part was the points for the graves, since when I put the coordinates into the GeoJSON converter, it showed them all over the place. At first I thought it was a problem on my end with the coordinated being mistyped, but I soon realized that it was probably the gps on my phone that wasn't properly calibrated. This meant that all the location data I collected was inaccurate. I suppose it shows that when going out in the field, to get accurate results, you need better equipment than a cell phone.
 
-![[Pasted image 20211015095807.png]]
+![Point_Fail](images-week-3/Pasted%20image%2020211015095807.png)
 *If those points were correct, it would have been a fair bit of walking.*
 
 <br>
